@@ -1,0 +1,1 @@
+Soft subsurface-scattering skin with warm-cool balance, restrained pore frequency, gentle cheek and nose highlight cuts, low noise, and a translucent CG finish. Avoid harsh live-action pores and waxy plastic skin.

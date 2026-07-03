@@ -1,0 +1,1 @@
+2D illustration, digital painting, painterly brushwork, cel shading, lineart, flat anime rendering, 2.5D look, harsh photorealism, noisy over-detailed texture, muddy colors, cheap glossy plastic, wet plastic hair, generic over-polished anime face, paper-thin body, stiff mannequin pose, collage, split-screen, multiple panels, contact sheet

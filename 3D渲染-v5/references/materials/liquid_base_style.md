@@ -1,0 +1,1 @@
+Clear liquid with physical surface tension, soft reflections, rim highlights, bubbles or droplets used sparingly, and subtle refraction over underlying material. Avoid noisy splash effects unless requested.

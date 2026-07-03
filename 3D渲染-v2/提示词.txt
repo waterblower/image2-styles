@@ -1,0 +1,5 @@
+[基础风格]
+stylized cinematic game CG render, high-end pre-rendered 3D look, idealized realism rather than raw photography, PBR material response with clean readable material separation, soft subsurface-scattering skin with restrained pore detail and smooth anatomical planes, strand-based hair arranged in larger natural clumps with limited flyaways and soft non-plastic sheen, physically plausible fabric, leather, metal, stone, glass and water-like materials, ray-traced natural light, soft real lens depth of field, crisp but not harsh contact shadows, clear refractive and reflective material behavior, muted earthy color grading with selective soft red and pale rose accents, clean controlled finish, firm volumetric form construction, lively weight-bearing body language, polished but not over-smoothed high-end game cinematic finish
+
+[负面]
+2D illustration, digital painting, painterly brushwork, cel shading, lineart, flat anime rendering, 2.5D look, raw photoreal portrait, raw photoreal landscape, excessive skin pores, glossy plastic hair, waxy doll skin, limp paper body, muddy colors

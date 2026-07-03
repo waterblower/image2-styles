@@ -1,0 +1,15 @@
+final_style_prompt:
+  base: >
+    polished contemporary Japanese anime key visual, crisp variable-width ink lineart,
+    clean manga contour drawing, cel-shaded digital painting with painterly blended
+    interior gradients, luminous sharp-edged highlights, warm golden edge light,
+    saturated jewel-tone accents balanced with clean whites and deep shadow masses,
+    high-contrast hard graphic shadows with soft skin and fabric transitions,
+    dense readable hand-drawn texture in hair, cloth, wood, stone, and small details,
+    refined fantasy-manga cover finish, subtle comic-paper grain, sharp finished
+    illustration quality
+
+  neg: >
+    not photorealistic, not 3D render, not glossy plastic, not flat vector color,
+    not over-smoothed airbrush, not muddy low-contrast shading, not loose sketch,
+    not generic low-detail anime, no blurry linework, no watermark, no text

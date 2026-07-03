@@ -1,0 +1,13 @@
+base: >
+  contemporary Japanese graphic novel illustration, painterly digital anime art,
+  semi-realistic stylized characters, loose hand-painted brushwork, rough visible dry-brush texture,
+  matte painted surfaces, soft simplified facial rendering, expressive minimal eyes,
+  broad atmospheric color fields, smoky blue-gray and mauve shadows with restrained coral-orange warmth,
+  low-to-medium contrast, soft blended shading with blocky shadow accents,
+  imperfect editorial concept-art finish, quiet poetic urban melancholy,
+  large areas of negative space, background detail suggested with painterly haze
+
+neg: >
+  no glossy 3D render, no plastic skin, no hyper-detailed realism, no sharp vector lineart,
+  no flat cel-shading, no generic polished anime, no oversaturated color,
+  no clean fashion-character-sheet finish, no photorealism, no smooth airbrushed idol face

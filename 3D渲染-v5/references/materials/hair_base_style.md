@@ -1,0 +1,1 @@
+Strand-based hair grouped into soft clumps with fine flyaways, directional anisotropic highlights, pale gold or muted natural color handling, and softened outer edges. Avoid solid plastic ribbons or wet specular clumps.

@@ -1,0 +1,8 @@
+[BASE_STYLE]
+stylized high-end 3D anime-character render, premium CG figurine realism, cinematic CG lighting, PBR material response, soft subsurface-scattering porcelain skin, idealized doll-like proportions, simplified clean anatomical planes, firm volumetric body construction, skin planes shaped by crisp highlight cuts, sculpted strand-cluster hair with fine fiber etching, matte-controlled satin surfaces, crisp material separation, delicate jewelry-level micro-detail, physically plausible cloth, metal, glass, lace, and crystal response, shallow cinematic depth of field, subtle film grain, clean controlled CG finish
+
+[LIGHT_COLOR]
+soft directional studio light, gentle chiaroscuro, warm translucent skin highlights with cool shadow falloff, restrained ivory, charcoal, muted champagne, and desaturated accent tones
+
+[NEGATIVE]
+realistic photography, lifestyle fashion photo, product catalog realism, 2D illustration, digital painting, painterly brushwork, cel shading, lineart, flat anime rendering, 2.5D look, glossy plastic hair, wet specular hair, generic over-polished anime face, weak paper-thin limbs, static mannequin body

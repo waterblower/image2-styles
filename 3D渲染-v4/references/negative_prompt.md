@@ -1,0 +1,1 @@
+2D illustration, digital painting, painterly brushwork, cel shading, lineart, flat anime rendering, 2.5D look, cheap plastic material, glossy plastic hair, waxy skin, paper-thin body, mannequin stiffness, busy fantasy costume, sterile catalog render, documentary photo, harsh flash, heavy skin pores, noisy render, oversaturated colors, cluttered scene, watermark, text.

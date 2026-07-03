@@ -1,0 +1,14 @@
+final_style_prompt:
+  base: >
+    contemporary Japanese pop editorial anime illustration, polished 2D digital painting,
+    fine clean ink contours with a few loose sketch accents, smooth cel-shaded planes
+    softened by gentle airbrush transitions, matte skin and surfaces with subtle paper-like
+    grain, small controlled glossy highlights, simplified elegant facial and form modeling,
+    bold flat poster-color fields, saturated hot pink and clean cyan-blue accents used as
+    graphic lighting, cool lavender-blue shadow blocks, low-to-medium contrast,
+    crisp manga-cover / fashion magazine finish
+  neg: >
+    photorealism, 3D render, glossy plastic skin, mirrored or ray-traced surfaces,
+    thick comic outlines, watercolor bleed, oil paint texture, gritty realism,
+    generic flat vector art, muddy colors, over-detailed background, copied hair color,
+    copied eyewear, copied outfit, copied props

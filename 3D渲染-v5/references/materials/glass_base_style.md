@@ -1,0 +1,1 @@
+Clear glass or crystal with believable thickness, soft refraction, rim highlights, faint caustic glow, and controlled internal reflections. Preserve transparency without turning the object into flat plastic.

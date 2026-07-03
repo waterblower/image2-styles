@@ -1,0 +1,1 @@
+Muted metal with warm gold or aged brass bias, physically plausible reflections, softened edge highlights, restrained scratches, patina, and darkened crevices. Avoid mirror-clean chrome unless requested.
