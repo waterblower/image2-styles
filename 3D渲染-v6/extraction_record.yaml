@@ -1,0 +1,34 @@
+macro_medium:
+    primary_category: pure_3d_render
+    confidence: 0.93
+    evidence:
+        skin: "Smooth stylized SSS, broad sculpted planes, controlled non-photographic pores and idealized anatomy."
+        hair: "Strand-like CG grooming, grouped fibers, anisotropic sheen, soft flyaway silhouettes."
+        fabric_or_materials: "PBR-like cloth, leather, metal, fur, embroidery, and wall materials with contact shadows and roughness variation."
+        lighting_and_shadows: "Soft area-light illumination, broad shadow transitions, preserved highlight color, clear contact occlusion."
+        camera_depth_edges: "Portrait and full-body renders show CG depth separation, softened background/edge falloff, and pre-rendered game-cinematic polish."
+    forbidden_defaults_if_wrong:
+        - semi-real 2.5D digital painting
+        - anime digital painting
+        - painterly 2D illustration
+
+style_signal_split:
+    transferable_invariants:
+        - "Pure stylized 3D render with game-cinematic finish."
+        - "Idealized semi-real forms with softened anatomical planes."
+        - "Warm muted amber, beige, cream, black, and restrained metal palette."
+        - "Soft global illumination and controlled specular rolloff."
+        - "Material details are high quality but organized inside broad readable forms."
+        - "Clean CG depth layering with low visual noise."
+    conditional_style_variables:
+        - "Skin uses SSS, smooth pores, rose undertones, and broad matte highlights."
+        - "Hair uses fine strand grooming and soft grouped fiber highlights."
+        - "Costume cloth uses sculptural folds, worn paint, embroidery, and dirt in recesses."
+        - "Metal uses muted brushed or aged PBR response, not chrome glare."
+        - "Environment uses matte painted/plaster surfaces with low-frequency stains."
+    non_transferable_content:
+        - "Specific blonde character identity."
+        - "Specific blindfold/visor, earrings, white tank top, orange dress, weapons, and pose."
+        - "Specific orange background layout and exact portrait/full-body composition."
+    missing_risk_if_only_pipeline_words:
+        - "A generic CG render may lose the idealized soft facial planes, warm muted palette, restrained material detail, and controlled non-oily highlights."

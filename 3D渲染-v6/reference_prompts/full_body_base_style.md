@@ -1,0 +1,3 @@
+# Full Body Base Style
+
+stylized full-body 3D character asset render, game-cinematic proportions, clean readable silhouette, simplified but precise anatomy, modest non-sexual costume coverage, sculptural costume volumes, broad cloth folds with controlled material sheen, ornamental details embedded into larger forms, crisp contact edges at belts, seams, gloves, boots, and accessories, muted warm palette with black contrast accents, soft shadow blocks under layered garments, refined PBR response without wet shine, clean vertical presentation, background kept simple and low-detail, no runway or fashion-magazine posing

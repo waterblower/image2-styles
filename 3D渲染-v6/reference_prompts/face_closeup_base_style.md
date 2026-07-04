@@ -1,0 +1,3 @@
+# Face Closeup Base Style
+
+idealized stylized 3D face render, less photographic than real portraiture, smooth SSS skin with restrained pore detail, broad soft cheek and forehead planes, delicate nose bridge and lip sculpting, crisp eyelid and lash definition, clear CG eyes with small controlled catchlights, soft rose tint in lips and cheeks, subtle under-eye shading, softened jaw and neck transitions, clean ear and collarbone modeling, fine pale hair strands rendered as grouped fibers, shallow depth of field, warm neutral background blur, high facial focus with softened edge falloff, no fashion-editorial skin finish
