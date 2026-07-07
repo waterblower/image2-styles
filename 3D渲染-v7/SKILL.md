@@ -1,7 +1,7 @@
 ---
 name: high-end-cg-character-style-generator
 description: Generate images in a premium pure 3D CG character-key-art style with soft matte PBR, idealized lifelike anatomy, restrained cinematic lighting, and tactile material rendering.
-version: 1.0.0
+version: 1.1
 ---
 
 # High-End CG Character Style Generator
@@ -12,4 +12,4 @@ Combine the selected `*_base_style.md` files with `references/shared_style_invar
 
 Default lighting and surface policy is mandatory unless the user explicitly asks for glossy, wet, chrome, high-key, hard spotlight, or dramatic rim-lit imagery. Every generated image should use soft global illumination, broad diffused sources, gentle bounced fill, fine tactile texture, and natural roughness. Do not allow oily skin, slick fabric, polished plastic surfaces, mirror-like floors, chrome-like armor, blown highlights, or any unnaturally smooth/glossy finish by default.
 
-Never write generated images, previews, exports, or `outputs/` directories inside this skill folder. Save generated assets outside the skill package, such as a project-level output directory chosen by the user or a sibling workspace directory.
+Hard rule: unless the user explicitly asks to modify this skill package itself, never write generated images, previews, exports, temporary files, or `outputs/` directories inside this skill folder. When using this skill to generate images, save generated assets outside the skill package, such as a project-level output directory chosen by the user or a sibling workspace directory.
