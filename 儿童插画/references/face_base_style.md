@@ -1,0 +1,1 @@
+Rounded childlike face; tiny sparse features; fine muted-brown contour; cheeks and shadow planes use soft blush color blocks; hair is a simple mass with a few tapered locks and only localized dry-brush breakup.

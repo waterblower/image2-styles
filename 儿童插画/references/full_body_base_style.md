@@ -1,0 +1,1 @@
+Short, rounded child proportions; readable weight and simple limbs; clothing forms one or two quiet blocks that follow the torso and movement; retain large empty areas and use only a few contour and fold marks.

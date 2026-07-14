@@ -1,0 +1,1 @@
+Build space from broad sky, cloud, ground, and distant-color masses. Use sparse fine contours; reserve localized broken brush texture for a few cloud or ground edges. Group vegetation by terrain and depth; simplify distant forms.

@@ -1,0 +1,1 @@
+Use a rounded, clear silhouette and delicate warm-brown contour. Indicate material through one or two colored shadow blocks and restrained edge highlights; keep the surrounding environment broad and quiet.
