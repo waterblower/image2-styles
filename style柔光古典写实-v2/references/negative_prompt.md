@@ -1,0 +1,3 @@
+# Negative Prompt
+
+overexposed highlights, blown-out whites, oily wet shine, greasy specular reflections, point-light hotspots, sparkle pollution, harsh flash lighting, uncontrolled glossy reflections, hard white specular streaks, mirror-like floor glare, glossy plastic hair, wet specular hair, excessive hair strand detail, dark yellow antique cast, muddy sepia palette, heavy brown wash, hyper-detailed background, dense tiny ornament, photorealistic 3D render, PBR render look, anime eyes, doll face, chibi proportions, Q-style proportions, manga rendering, comic rendering, hard vector lineart, cheap beauty filter, waxy skin, plastic skin, greasy lips, glitter makeup unless requested, watermark, text artifacts
