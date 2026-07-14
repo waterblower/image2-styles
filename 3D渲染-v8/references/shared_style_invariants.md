@@ -1,0 +1,3 @@
+# Shared style invariants
+
+Pure 3D Japanese fantasy-game cinematic rendering with softly idealized realism. Use clean tapered silhouettes, graceful slightly enlarged almond eyes when faces are present, compact refined facial planes, softly rounded but clearly sculpted volumes, believable anatomy, restrained microdetail, tactile PBR separation, and a polished game-cutscene finish. Keep detail frequency selective: crisp at focal materials and softened through depth. Favor warm ivory, taupe, dusty rose, muted botanical green, and restrained blue-gray. Use broad diffused area lighting, soft global illumination, bounced fill, gentle contact shadows, controlled specular rolloff, preserved highlight color, medium-low contrast, and calm shallow depth layering.
