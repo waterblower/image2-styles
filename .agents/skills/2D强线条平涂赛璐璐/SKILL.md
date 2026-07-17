@@ -1,5 +1,5 @@
 ---
-name: manga-cover-2d-style-generator
+name: 2D强线条平涂赛璐璐
 description: Generate images in a clean modern 2D manga-cover digital illustration style with bold line hierarchy, smooth color fields, graphic shadow shapes, and controlled highlights.
 version: 1.0.0
 ---
